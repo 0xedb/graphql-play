@@ -1,0 +1,12 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:theBashShell/graphql-play.git",
+  "author": "theBashShell <edohbruno@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8"
+  }
+}
